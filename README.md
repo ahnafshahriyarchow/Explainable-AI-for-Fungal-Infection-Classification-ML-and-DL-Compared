@@ -12,7 +12,7 @@ Fungal infections are difficult to classify manually due to morphological simila
 ## Dataset  
 
 - **Name:** DeFungi Dataset  
-- **Source:** [UCI Machine Learning Repository](https://doi.org/10.48550/arXiv.2109.07322)  
+- **Source:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/773/defungi).  
 - **Classes:** H1, H2, H3, H5, H6 (microscopic images of fungi)  
 
 **Preprocessing:**  
